@@ -12,10 +12,12 @@
 * Synchronization
   * Volatile keyword (to avoid issue caused by caching)
   * Synchronized keyword
-    * Instance methods
-    * Static methods
-    * Code blocks
+    * Method
+    * Code Blocks
+* Thread Pool
 * Countdown Latch
 * Blocking Queue
 * Wait And Notify
 * Re-Entrant Lock
+* Semaphore
+* Callable And Future
